@@ -1,0 +1,16 @@
+{
+  "name": "pracabezgranic-backend",
+  "version": "1.0.0",
+  "description": "Api for pracabezgranic.pl",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Kuba Smolaga",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "express": "^4.17.1",
+    "mongodb": "^3.3.2"
+  }
+}
